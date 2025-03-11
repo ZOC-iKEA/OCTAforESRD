@@ -1,7 +1,5 @@
 # OCTAforESRD
 
-# Fundus Microvascular Analysis for Dialysis Outcome Prediction
-
 This project explores the use of fundus microvascular features obtained through noninvasive optical coherence tomography angiography (OCTA) to predict treatment outcomes, complications, and all-cause mortality in end-stage renal disease (ESRD) patients undergoing both hemodialysis and peritoneal dialysis. By leveraging machine learning models, we aim to provide an innovative and reliable tool for real-time assessment and risk prediction in dialysis patients, facilitating timely interventions and improving long-term prognosis.
 
 ## Features
