@@ -6,7 +6,7 @@ This project explores the use of fundus microvascular features obtained through 
 - Identification of retina and choroid microvascular characteristics associated with treatment indicators and prognosis.
 - Analysis of vessel density and thickness in hemodialysis and peritoneal dialysis patients.
 - Development of multimodal machine learning models integrating OCTA and clinical data.
-- Prediction of dialysis adequacy, anemia and Hypoalbuminemia before dialysis sessions.
+- Prediction of dialysis adequacy, anemia and hypoalbuminemia before dialysis sessions.
 - Reliable prediction of intradialytic hypotension complications and 2-year all-cause mortality in hemodialysis patients.
 
 ## Data and Code Access
